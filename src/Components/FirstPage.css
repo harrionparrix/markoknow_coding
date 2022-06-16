@@ -1,0 +1,22 @@
+.first_page{
+    align-items: flex-start;
+    padding-top: 10px;
+    margin-top: 10px;
+    
+}
+.head_area{
+    color: grey;
+    font-size: 20px;
+}
+#city_box{
+    background-color: rgb(189, 184, 184);
+    padding: 10px;
+    margin-top: 10px;
+    width: 47%;
+}
+#next_button{
+    margin-top: 10px;
+    background-color:black;
+    color: white;
+    width: 50%;
+}
